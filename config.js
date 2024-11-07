@@ -14,7 +14,7 @@ global.namaCreator = "⏤͟͟͞͞𝄞∘̥⃟𝐄𝐆 𝐃𝐘𝐁𝐘 𝐓𝐄�
 global.linkyt = "https://youtube.com/@esteams"
 global.autoJoin = false
 global.antilink = false
-global.versisc = '4.0.0'
+global.versisc = '4.0.1'
 
 // DELAY JPM
 global.delayjpm = 5500

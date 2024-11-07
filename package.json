@@ -1,6 +1,6 @@
 {
   "name": "STINGER",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Simple Bot Whatsapp With Baileys",
   "main": "index.js",
   "type": "commonjs",
